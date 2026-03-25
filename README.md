@@ -1,1 +1,1 @@
-# purchase-prediction-frontend
+# purchase-dashboard-frontend
